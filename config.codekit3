@@ -1576,6 +1576,37 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/article\/distance.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/distance.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/down.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/down.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/header-chasseral.jpg": {
+		"ft": 16384,
+		"iS": 513592,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/header-chasseral.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/article\/map-suisse.png": {
 		"ft": 32768,
 		"iS": 484378,
@@ -1712,6 +1743,26 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/article\/scene.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/time.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/time.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/up.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/up.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -2311,710 +2362,48 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/prod\/2080039-une-silhouette-de-l-homme-masque-de-pompage-de-pesticides-dans-le-domaine-.jpg": {
-		"ft": 16384,
-		"iS": 81435,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/2080039-une-silhouette-de-l-homme-masque-de-pompage-de-pesticides-dans-le-domaine-.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/42289570-man-flottant-sur-la-rivière-en-kayaks-paysage-de-montagnes-et-de-tente-l-été-design-plat-illustration (1).jpg": {
-		"ft": 16384,
-		"iS": 116092,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/42289570-man-flottant-sur-la-rivière-en-kayaks-paysage-de-montagnes-et-de-tente-l-été-design-plat-illustration (1).jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/42289570-man-flottant-sur-la-rivière-en-kayaks-paysage-de-montagnes-et-de-tente-l-été-design-plat-illustration.jpg": {
-		"ft": 16384,
-		"iS": 116092,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/42289570-man-flottant-sur-la-rivière-en-kayaks-paysage-de-montagnes-et-de-tente-l-été-design-plat-illustration.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/48237940-illustration-vectorielle-kayak-sports-nautiques-de-kayak-.jpg": {
-		"ft": 16384,
-		"iS": 64767,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/48237940-illustration-vectorielle-kayak-sports-nautiques-de-kayak-.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/48237940.eps": {
+	"\/prod\/________trash\/Intro - Chasseral.docx": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/prod\/48237940.eps",
+		"oAP": "\/prod\/________trash\/Intro - Chasseral.docx",
 		"oF": 0
 		},
-	"\/prod\/48237940_l.jpg": {
+	"\/prod\/Dent de Nendaz\/Cabane de Balavaux.jpg": {
 		"ft": 16384,
-		"iS": 916382,
+		"iS": 249096,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/prod\/48237940_l.jpg",
+		"oAP": "\/prod\/Dent de Nendaz\/Cabane de Balavaux.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/prod\/75069432-section-transversale-tranche-en-terre-isolée-une-pièce-nature-écologie-extérieure-sous-terre-et-autonome-ren.jpg": {
+	"\/prod\/Dent de Nendaz\/SPA-des Bisses25.jpg": {
 		"ft": 16384,
-		"iS": 65835,
+		"iS": 396484,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/prod\/75069432-section-transversale-tranche-en-terre-isolée-une-pièce-nature-écologie-extérieure-sous-terre-et-autonome-ren.jpg",
+		"oAP": "\/prod\/Dent de Nendaz\/SPA-des Bisses25.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/prod\/7C4FEE984EC0B320.jpg": {
-		"ft": 16384,
-		"iS": 10974,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B320.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B321.jpg": {
-		"ft": 16384,
-		"iS": 10563,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B321.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B322.jpg": {
-		"ft": 16384,
-		"iS": 6488,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B322.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B323.jpg": {
-		"ft": 16384,
-		"iS": 5977,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B323.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B324.jpg": {
-		"ft": 16384,
-		"iS": 5770,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B324.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B325.jpg": {
-		"ft": 16384,
-		"iS": 12229,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B325.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B326.jpg": {
-		"ft": 16384,
-		"iS": 5770,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B326.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B327.jpg": {
-		"ft": 16384,
-		"iS": 6488,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B327.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B328.jpg": {
-		"ft": 16384,
-		"iS": 10974,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B328.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B329.jpg": {
-		"ft": 16384,
-		"iS": 10974,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B329.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B32A.jpg": {
-		"ft": 16384,
-		"iS": 10974,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B32A.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B32B.jpg": {
-		"ft": 16384,
-		"iS": 12229,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B32B.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B32C.jpg": {
-		"ft": 16384,
-		"iS": 6488,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B32C.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B32D.jpg": {
-		"ft": 16384,
-		"iS": 10974,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B32D.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/7C4FEE984EC0B32F.jpg": {
-		"ft": 16384,
-		"iS": 10974,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/7C4FEE984EC0B32F.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/Au pied du mur.htm": {
+	"\/prod\/Les montées du plaisir.docx": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/prod\/Au pied du mur.htm",
+		"oAP": "\/prod\/Les montées du plaisir.docx",
 		"oF": 0
 		},
-	"\/prod\/Au pied du mur_files\/animation-charts.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/animation-charts-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/animation-pesticides.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/animation-pesticides-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/animation.gsap.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/animation.gsap-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/Chart.bundle.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/Chart.bundle-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/chart2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/prod\/Au pied du mur_files\/chart2.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/prod\/Au pied du mur_files\/css": {
+	"\/prod\/~$s montées du plaisir.docx": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/prod\/Au pied du mur_files\/css",
+		"oAP": "\/prod\/~$s montées du plaisir.docx",
 		"oF": 0
-		},
-	"\/prod\/Au pied du mur_files\/css(1)": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/Au pied du mur_files\/css(1)",
-		"oF": 0
-		},
-	"\/prod\/Au pied du mur_files\/css(2)": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/Au pied du mur_files\/css(2)",
-		"oF": 0
-		},
-	"\/prod\/Au pied du mur_files\/css(3)": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/Au pied du mur_files\/css(3)",
-		"oF": 0
-		},
-	"\/prod\/Au pied du mur_files\/debug.addIndicators.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/debug.addIndicators-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/empty.png": {
-		"ft": 32768,
-		"iS": 81,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/empty.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/prod\/Au pied du mur_files\/font-awesome.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/font-awesome.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/prod\/Au pied du mur_files\/iframe_api": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/Au pied du mur_files\/iframe_api",
-		"oF": 0
-		},
-	"\/prod\/Au pied du mur_files\/intro-control.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/intro-control-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/jquery.counterup.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/jquery.counterup.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/jquery.lazyload.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/jquery.lazyload-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/jquery.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/jquery.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/loader.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/loader-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/prod\/Au pied du mur_files\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/prod\/Au pied du mur_files\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/owl.carousel.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/owl.carousel-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/prod\/Au pied du mur_files\/owl.carousel.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/owl.carousel-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/owl.theme.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/owl.theme-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/prod\/Au pied du mur_files\/ScrollMagic.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/ScrollMagic-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/SmoothScroll.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/SmoothScroll.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/timeline.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/timeline-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/TweenMax.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/TweenMax.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/viewport.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/viewport-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/waypoints.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/waypoints.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/www-widgetapi.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/www-widgetapi-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/Au pied du mur_files\/zoom.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/prod\/Au pied du mur_files\/zoom-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/prod\/chart2_page de droite.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/prod\/chart2_page de droite.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/prod\/chart3_page de droite.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/prod\/chart3_page de droite.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/prod\/chart4_page de droite.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/prod\/chart4_page de droite.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/prod\/elements-eco-lifestyle-set-of-flat-design-style-banners-9G2F8V-2018-05-11.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/elements-eco-lifestyle-set-of-flat-design-style-banners-9G2F8V-2018-05-11.zip",
-		"oF": 0
-		},
-	"\/prod\/elements-eco-lifestyle-set-of-flat-design-style-banners-9G2F8V-2018-05-11\/d_082-11.eps": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/elements-eco-lifestyle-set-of-flat-design-style-banners-9G2F8V-2018-05-11\/d_082-11.eps",
-		"oF": 0
-		},
-	"\/prod\/elements-eco-lifestyle-set-of-flat-design-style-banners-9G2F8V-2018-05-11\/d_082-11.jpg": {
-		"ft": 16384,
-		"iS": 2019477,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/elements-eco-lifestyle-set-of-flat-design-style-banners-9G2F8V-2018-05-11\/d_082-11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/elements-ecology-set-of-flat-design-style-vector-banners-YBNY4T-2018-05-11.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/elements-ecology-set-of-flat-design-style-vector-banners-YBNY4T-2018-05-11.zip",
-		"oF": 0
-		},
-	"\/prod\/elements-ecology-set-of-flat-design-style-vector-banners-YBNY4T-2018-05-11\/d_082-13.eps": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/elements-ecology-set-of-flat-design-style-vector-banners-YBNY4T-2018-05-11\/d_082-13.eps",
-		"oF": 0
-		},
-	"\/prod\/elements-ecology-set-of-flat-design-style-vector-banners-YBNY4T-2018-05-11\/d_082-13.jpg": {
-		"ft": 16384,
-		"iS": 2023643,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/elements-ecology-set-of-flat-design-style-vector-banners-YBNY4T-2018-05-11\/d_082-13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/prod\/LT_WEB_PESTICIDES_CARTE.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/LT_WEB_PESTICIDES_CARTE.ai",
-		"oF": 0
-		},
-	"\/prod\/LT_WEB_PESTICIDES_DONUT.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/LT_WEB_PESTICIDES_DONUT.ai",
-		"oF": 0
-		},
-	"\/prod\/LT_WEB_PESTICIDES_PAYS.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/LT_WEB_PESTICIDES_PAYS.ai",
-		"oF": 0
-		},
-	"\/prod\/LT_WEB_PESTICIDES_PYRAMIDES.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/LT_WEB_PESTICIDES_PYRAMIDES.ai",
-		"oF": 0
-		},
-	"\/prod\/LT_WEB_PESTICIDES_TONNEAUX.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/LT_WEB_PESTICIDES_TONNEAUX.ai",
-		"oF": 0
-		},
-	"\/prod\/LTXXX_2016_page1_316mm_copie_.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/LTXXX_2016_page1_316mm_copie_.ai",
-		"oF": 0
-		},
-	"\/prod\/Pesticides.tiff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/Pesticides.tiff",
-		"oF": 0
-		},
-	"\/prod\/rapport_atmo_aura_2017_modelisation_pesticides.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/rapport_atmo_aura_2017_modelisation_pesticides.pdf",
-		"oF": 0
-		},
-	"\/prod\/scene-with-plant_Plan de travail 1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/prod\/scene-with-plant_Plan de travail 1.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/prod\/scene.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/prod\/scene.ai",
-		"oF": 0
-		},
-	"\/prod\/stock-vector-farmer-sprays-pesticide-vector-illustration-608381921.jpg": {
-		"ft": 16384,
-		"iS": 46005,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/prod\/stock-vector-farmer-sprays-pesticide-vector-illustration-608381921.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/README.md": {
 		"cB": 0,

@@ -1110,6 +1110,42 @@ footer {
     text-align: center; }
 
 /*Header, section, article, footer...*/
+.box-wrapper {
+  width: 100%;
+  overflow: auto;
+  margin-bottom: 10px;
+  padding: 10px 0; }
+  .box-wrapper .box-wrapper--box {
+    background: white;
+    width: calc((100% - 90px) / 4);
+    overflow: visible;
+    float: left;
+    margin-right: 30px;
+    padding-bottom: calc((100% - 90px) / 4);
+    position: relative;
+    box-shadow: 0 3px 7px 0 rgba(0, 0, 0, 0.1);
+    border-left: 3px solid #e3002c; }
+    .box-wrapper .box-wrapper--box:last-child {
+      margin-right: 0; }
+    .box-wrapper .box-wrapper--box .box-wrapper--box--container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); }
+      .box-wrapper .box-wrapper--box .box-wrapper--box--container .picto {
+        width: 100%;
+        height: auto;
+        width: 50px;
+        margin: auto;
+        margin-bottom: 20px !important;
+        opacity: .5; }
+      .box-wrapper .box-wrapper--box .box-wrapper--box--container .text {
+        display: block;
+        width: 100%;
+        text-align: center;
+        font-family: "Montserrat";
+        font-size: 130%; }
+
 div.fixed-map-wrapper {
   position: fixed;
   width: 250px;
