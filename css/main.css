@@ -1131,7 +1131,8 @@ footer {
       position: absolute;
       top: 50%;
       left: 50%;
-      transform: translate(-50%, -50%); }
+      transform: translate(-50%, -50%);
+      width: 100%; }
       .box-wrapper .box-wrapper--box .box-wrapper--box--container .picto {
         width: 100%;
         height: auto;
@@ -1228,7 +1229,7 @@ div.fixed-map-wrapper {
 .header-sponsor {
   position: absolute;
   height: 57px;
-  background: #323232;
+  background: #272727;
   width: 100%;
   bottom: 0;
   z-index: 10; }

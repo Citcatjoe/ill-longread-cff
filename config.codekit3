@@ -2036,11 +2036,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexH.php": {
+	"\/indexLT.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/indexH.php",
+		"oAP": "\/indexLT.php",
 		"oF": 0
 		},
 	"\/js\/animation-charts-min.js": {
@@ -2391,19 +2391,22 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/prod\/Les montées du plaisir.docx": {
+	"\/prod\/Les montées du plaisir_okVB.docx": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/prod\/Les montées du plaisir.docx",
+		"oAP": "\/prod\/Les montées du plaisir_okVB.docx",
 		"oF": 0
 		},
-	"\/prod\/~$s montées du plaisir.docx": {
-		"cB": 0,
-		"ft": 8192,
+	"\/prod\/SBB_CFF_FFS_logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 2,
-		"oAP": "\/prod\/~$s montées du plaisir.docx",
-		"oF": 0
+		"oAP": "\/prod\/SBB_CFF_FFS_logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/README.md": {
 		"cB": 0,
