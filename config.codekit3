@@ -1576,6 +1576,171 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/article\/chasseral1.jpg": {
+		"ft": 16384,
+		"iS": 6568008,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseral1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/chasseral2.jpg": {
+		"ft": 16384,
+		"iS": 10015740,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseral2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/chasseral3.jpg": {
+		"ft": 16384,
+		"iS": 9597273,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseral3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/chasseral4.jpg": {
+		"ft": 16384,
+		"iS": 102505,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseral4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/chasseral5.jpg": {
+		"ft": 16384,
+		"iS": 3061820,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseral5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/chasseral6.jpg": {
+		"ft": 16384,
+		"iS": 12712511,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseral6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/chasseralmusee.jpg": {
+		"ft": 16384,
+		"iS": 369763,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseralmusee.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/chasseralresto.jpg": {
+		"ft": 16384,
+		"iS": 235264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/chasseralresto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/dentdenendaz1.jpg": {
+		"ft": 16384,
+		"iS": 5876792,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/dentdenendaz1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/dentdenendaz2.jpg": {
+		"ft": 16384,
+		"iS": 5426971,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/dentdenendaz2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/dentdenendaz3.jpg": {
+		"ft": 16384,
+		"iS": 9968609,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/dentdenendaz3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/dentdenendaz4.jpg": {
+		"ft": 16384,
+		"iS": 6665082,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/dentdenendaz4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/dentdenendaz5.jpg": {
+		"ft": 16384,
+		"iS": 6098342,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/dentdenendaz5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/dentdenendazresto.jpg": {
+		"ft": 16384,
+		"iS": 249096,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/dentdenendazresto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/dentdenendazspa.jpg": {
+		"ft": 16384,
+		"iS": 291706,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/dentdenendazspa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/article\/distance.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1596,12 +1761,188 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/article\/gastlosen1.jpg": {
+		"ft": 16384,
+		"iS": 5692699,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/gastlosen1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/gastlosen2.jpg": {
+		"ft": 16384,
+		"iS": 9100070,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/gastlosen2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/gastlosen3.jpeg": {
+		"ft": 16384,
+		"iS": 2236992,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/gastlosen3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/gastlosen4.jpg": {
+		"ft": 16384,
+		"iS": 4738753,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/gastlosen4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/gastlosenjaun.jpg": {
+		"ft": 16384,
+		"iS": 16938209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/gastlosenjaun.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/gastlosenresto.jpg": {
+		"ft": 16384,
+		"iS": 17743919,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/gastlosenresto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/glacier30001.jpg": {
+		"ft": 16384,
+		"iS": 10992108,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/glacier30001.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/glacier30002.jpg": {
+		"ft": 16384,
+		"iS": 273850,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/glacier30002.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/glacier30003.jpg": {
+		"ft": 16384,
+		"iS": 283886,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/glacier30003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/glacier3000luge.jpg": {
+		"ft": 16384,
+		"iS": 1649316,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/glacier3000luge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/glacier3000resto.jpg": {
+		"ft": 16384,
+		"iS": 147414,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/glacier3000resto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/article\/header-chasseral.jpg": {
 		"ft": 16384,
 		"iS": 513592,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-chasseral.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/header-dentdenendaz.jpg": {
+		"ft": 16384,
+		"iS": 15978820,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/header-dentdenendaz.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/header-gastlosen.jpg": {
+		"ft": 16384,
+		"iS": 5439331,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/header-gastlosen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/header-glacier3000.jpg": {
+		"ft": 16384,
+		"iS": 15428013,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/header-glacier3000.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/header-midi.jpg": {
+		"ft": 16384,
+		"iS": 697528,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/header-midi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/header.jpg": {
+		"ft": 16384,
+		"iS": 3653898,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/header.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1627,6 +1968,83 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/article\/midi1.jpg": {
+		"ft": 16384,
+		"iS": 803534,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/midi1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/midi2.jpg": {
+		"ft": 16384,
+		"iS": 1054569,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/midi2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/midi3.jpg": {
+		"ft": 16384,
+		"iS": 1222431,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/midi3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/midi4.JPG": {
+		"ft": 16384,
+		"iS": 675501,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/midi4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/midi5.jpg": {
+		"ft": 16384,
+		"iS": 892011,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/midi5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/midibains.png": {
+		"ft": 32768,
+		"iS": 2008148,
+		"oA": 0,
+		"oAP": "\/img\/article\/midibains.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/midiresto.jpg": {
+		"ft": 16384,
+		"iS": 20897291,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/midiresto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/article\/portrait-chevre.jpg": {
 		"ft": 16384,
@@ -2036,11 +2454,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexLT.php": {
+	"\/indexH.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/indexLT.php",
+		"oAP": "\/indexH.php",
 		"oF": 0
 		},
 	"\/js\/animation-charts-min.js": {

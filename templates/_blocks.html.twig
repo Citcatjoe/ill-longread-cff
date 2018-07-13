@@ -158,18 +158,9 @@
 
 {% block bar_brand %}
     <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQ2B8Q"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TQ2B8Q');</script>
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDPSVW"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TDPSVW');</script>
     <!-- End Google Tag Manager -->
-
-    <!-- REMP -->
-    <script language="JavaScript" type="text/javascript"> <!--
-    	var WEMF="http://letemps.wemfbox.ch/cgi-bin/ivw/CP/non_classe/article";
-    	document.write("<img src=\""+WEMF+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\"width=\"1\" height=\"1\" alt=\"\"  style=\"display: none;\" />");
-    </script>
-    <noscript>
-    	<img src="http://letemps.wemfbox.ch/cgi-bin/ivw/CP/non_classe/article" width="1" height="1" alt="" />
-    </noscript>
 
     <!-- NAVBAR -->
     <div class="brand-nav {{ navBarStyle|default('') }} headroom {% if navBarLocked == true %}is-locked{% endif %}">
@@ -249,8 +240,8 @@
     	
     	<div class="brand-social-wrapper">
     		<!-- <div class="brand-button"><i class="fa fa-share-alt"></i></div> -->
-    		<a target="blank" href="https://www.linkedin.com/shareArticle?url={{ app.url }}&mini=true&title={{ title|url_encode }}&summary={{ description|url_encode }}&source={{ 'Le Temps'|url_encode }}"><span class="brand-button"><i class="fas fa-envelope"></i></span></a>
-    		<a target="blank" href="https://twitter.com/intent/tweet?text={{ description ~ ' ' ~ app.url ~ ' '|url_encode }}&via=letemps"><span class="brand-button"><i class="fab fa-twitter"></i></span></a>
+    		<a target="blank" href="mailto:?subject={{ title|url_encode }}&body={{ description|url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A{{ app.url }}"><span class="brand-button"><i class="fas fa-envelope"></i></span></a>
+    		<a target="blank" href="https://twitter.com/intent/tweet?text={{ description ~ ' ' ~ app.url ~ ' '|url_encode }}&via=lillustre"><span class="brand-button"><i class="fab fa-twitter"></i></span></a>
     		<a target="blank" href="https://www.facebook.com/sharer.php?u={{ app.url }}&display=popup&ref=plugin&src=share_button"><span class="brand-button"><i class="fab fa-facebook-f"></i></span></a> 
     	</div>
     </div>
@@ -262,10 +253,10 @@
         var _sf_async_config = _sf_async_config || {};
         /** CONFIGURATION START **/
         _sf_async_config.uid = 61154; //CHANGE THIS
-        _sf_async_config.domain = 'letemps.ch'; //CHANGE THIS
+        _sf_async_config.domain = 'illustre.ch'; //CHANGE THIS
         _sf_async_config.useCanonical = true;
         _sf_async_config.sections = 'Interactive'; //CHANGE THIS
-        _sf_async_config.authors = '<?=$auteurs?>'; //CHANGE THIS
+        _sf_async_config.authors = '{{authors}}'; //CHANGE THIS
         /** CONFIGURATION END **/
         (function() {
             function loadChartbeat() {
