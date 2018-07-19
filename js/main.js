@@ -14,13 +14,25 @@ jQuery(document).ready(function($)
 
 
 
-
-//ytp-thumbnail-overlay-image
-
-	// setTimeout(function() 
-	// {
-	// 	$('footer').nextAll('div').css('display', 'none');
-	// }, 5000);
+	// hack to remove white space under footer
+	var controller = new ScrollMagic.Controller();
+  	var whiteSpaceRemoved = false;
+	new ScrollMagic.Scene({
+        triggerElement: "footer",
+        triggerHook: 0.5,
+        duration: 100
+    })
+        .on('enter', function (e) {
+          if(whiteSpaceRemoved == false)
+          {
+            $('footer').nextAll('div').css('display', 'none');
+             $('footer').nextAll('img').css('display', 'none');
+            whiteSpaceRemoved = true;
+          }
+        })
+        //.addIndicators()
+        .offset(0) //tip top
+        .addTo(controller);
 
 	$(".owl").owlCarousel({
 	    items : 1,

@@ -33,8 +33,8 @@ hr {
   border-radius: 3px; }
 
 h1 {
-  font-size: 80px;
-  line-height: 90px;
+  font-size: 90px;
+  line-height: 95px;
   color: #fff;
   font-family: "Times";
   font-weight: 700;
@@ -1981,6 +1981,9 @@ Main Components
 @media screen and (max-width: 320px) {
   h2.social {
     font-size: 35px; } }
+
+.gallery.small.odd .layout {
+  width: 500px; }
 
 /* ==========================================================================
    Print styles.
