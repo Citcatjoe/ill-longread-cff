@@ -1567,7 +1567,7 @@
 		"oAP": "\/img\/article\/chasseral4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/article\/chasseral5.jpg": {
@@ -1600,7 +1600,7 @@
 		"oAP": "\/img\/article\/chasseral6b.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/article\/chasseralmusee.jpg": {
