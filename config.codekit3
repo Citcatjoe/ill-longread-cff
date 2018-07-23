@@ -1526,6 +1526,50 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/article\/89430B0FCAFE2ABA.png": {
+		"ft": 32768,
+		"iS": 3614,
+		"oA": 0,
+		"oAP": "\/img\/article\/89430B0FCAFE2ABA.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/89430B0FCAFE2ABC.jpeg": {
+		"ft": 16384,
+		"iS": 111963,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/89430B0FCAFE2ABC.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/89430B0FCAFE2ABC.png": {
+		"ft": 32768,
+		"iS": 3614,
+		"oA": 0,
+		"oAP": "\/img\/article\/89430B0FCAFE2ABC.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/89430B0FCAFE2ABD.png": {
+		"ft": 32768,
+		"iS": 3614,
+		"oA": 0,
+		"oAP": "\/img\/article\/89430B0FCAFE2ABD.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/article\/chasseral1.jpg": {
 		"ft": 16384,
 		"iS": 6568008,
@@ -1941,6 +1985,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/article\/map-top.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/map-top.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/article\/midi1.jpg": {
 		"ft": 16384,
 		"iS": 803534,
@@ -2122,11 +2176,41 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/logo-sponsor-only-black-small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/logo-sponsor-only-black-small.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/logo-sponsor-only-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/logo-sponsor-only-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/logo-sponsor-only-neg.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/logo-sponsor-only-neg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/logo-sponsor-only.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/logo-sponsor-only.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -2639,6 +2723,16 @@
 		"oA": 2,
 		"oAP": "\/prod\/________trash\/Intro - Chasseral.docx",
 		"oF": 0
+		},
+	"\/prod\/Carte_IL_site_OK.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/prod\/Carte_IL_site_OK.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/prod\/Dent de Nendaz\/Cabane de Balavaux.jpg": {
 		"ft": 16384,
