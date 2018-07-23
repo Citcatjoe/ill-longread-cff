@@ -174,13 +174,14 @@
 			</svg>
 		</div> -->
 		
-		<!-- <div class="overlay">
+		<div class="overlay">
 			<img class="logo-brand" src="img/logo-illustre-pos.svg" alt="">
+			<img class="logo-sponsor" src="img/logo-sponsor-only-black.svg" alt="">
 			<div class="spinner">
 				<div class="double-bounce1"></div>
 				<div class="double-bounce2"></div>
 			</div>
-		</div> -->
+		</div>
 
 		<header>
 			<div class="header__bg"></div>
@@ -213,7 +214,7 @@
 						<h2 class="social" >
 							<a target="blank" href="https://www.facebook.com/sharer.php?u={{ app.url }}&display=popup&ref=plugin&src=share_button"><i class="fab fa-facebook-f"></i></a>
 							<a target="blank" href="https://twitter.com/intent/tweet?text={{ description ~ ' ' ~ app.url ~ ' '|url_encode }}&via=letemps"><i class="fab fa-twitter fa-middle"></i></a>
-							<a target="blank" href="https://www.linkedin.com/shareArticle?url={{ app.url }}&mini=true&title={{ title|url_encode }}&summary={{ description|url_encode }}&source={{ 'Le Temps'|url_encode }}"><i class="fas fa-envelope"></i></a>
+							<a target="blank" href="mailto:?subject={{ title|url_encode }}&body={{ description|url_encode }}%0D%0A%0D%0A%0D%0A%0D%0A{{ app.url }}"><span class="brand-button"><i class="fas fa-envelope"></i></span></a>
 						</h2>
 					</div>
 				</div>
@@ -226,8 +227,8 @@
 			</div>
 
 			<div class="header-sponsor">
-				<a href="https://www.letemps.ch/partenariats" target="_blank"><span class="charte">[?]</span></a>
-				<a href="https://www.mirabaud.com/fr/" target="_blank"><img src="img/logo-sponsor-only.svg" alt=""></a> 
+				<!-- <a href="https://www.letemps.ch/partenariats" target="_blank"><span class="charte">[?]</span></a> -->
+				<a href="https://www.sbb.ch/fr/" target="_blank"><img src="img/logo-sponsor-only.svg" alt=""></a> 
 				<span>Avec le soutien de </span>
 
 			</div>
@@ -235,7 +236,7 @@
 
 		
 
-		<section class="text padding-bottom">
+		<section class="text">
 			<div class="container">
 
 				<h3>
@@ -247,36 +248,59 @@
 
 				<h4>
 					Texte: François Busson<br>
+					<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;</span> Cartes: Manuel Forney<br>
 					<span>&nbsp;&nbsp;&bull;&nbsp;&nbsp;</span> Format Web: César Greppin
 				</h4>
-
-				<!-- <p>
-					C’est une partie de pêche qui a fait prendre conscience du problème à Gabriel de la Harpe. Il y a quelques années, cet agriculteur et employé communal de Yens a assisté le garde-pêche alors qu’il effectuait des prélèvements dans le Boiron, une rivière du canton de Vaud qui parcourt de nombreuses zones agricoles.«Au niveau de la source, il y avait une grande variété de poissons, de plantes aquatiques et même une écrevisse locale d’une grande rareté. Mais cette diversité a disparu à mesure qu’on descendait le cours de la rivière. Arrivé au niveau de Tolochenaz, elle était comme morte», se remémore Gabriel de la Harpe, dont l’exploitation se situe dans le bassin-versant du Boiron. A la suite de cette expérience, il a rejoint un programme fédéral visant à réduire son usage de pesticides et a participé à la création du réseau écologique du Boiron, qu’il préside aujourd’hui.
-				</p> -->
-
-				<!-- (EXPERIMENTAL) CITATION DROIT DANS UN PARAGRAPHE. DOIT ETRE DANS UNE SECTION -->
-				<!-- <blockquote class="right">
-					<span>Nous avons reçu des milliers de courriers de personnes qui nous remercient, pour leur avenir et celui de leurs enfants</span>
-					<div class="caption"><b>ETIENNE KUHN</b>, membre du comité d’initiative apolitique «Pour une Suisse libre de pesticides de synthèse»</div>
-				</blockquote> -->
-
-				<!-- <p>
-					L’impact des produits phytosanitaires sur l’environnement et sur la santé alarme un nombre croissant de personnes en Suisse. L’année passée, la réautorisation dans l’Union européenne du glyphosate, herbicide soupçonné d’être cancérigène, a contribué à sensibiliser un large public, au-delà de celui des écologistes convaincus. «Nous bénéficions d’une sympathie affolante, affirme Etienne Kuhn, membre du comité d’initiative apolitique «Pour une Suisse libre de pesticides de synthèse», déposée le 25 mai à la Chancellerie fédérale à Berne. Nous avons reçu des milliers de courriers de personnes qui nous remercient, pour leur avenir et celui de leurs enfants.»En janvier, une autre initiative populaire intitulée «Pour une eau potable propre et une alimentation saine» avait également abouti; un de ses objectifs est de réserver l’octroi de paiements directs aux agriculteurs qui n’utilisent pas de pesticides de synthèse.
-				</p>
-
-				<p>
-					 La situation se tend donc entre une société qui demande une transformation écologique de l’agriculture – sans forcément
-					en imaginer les conséquences – et des professionnels qui se sentent montrés du doigt. Comment sortir de cette ornière? Notre
-					enquête montre que ce ne sera pas facile, car l’agriculture suisse, l’une des plus intensives au monde, est fortement dépendante
-					des pesticides. Mais des pistes de changement existent bel et bien. Depuis quelques années, les agriculteurs tentent de limiter leur recours
-					aux pesticides. Dans les champs, les vergers et les vignobles, mais aussi au sein des centres de recherche et des organisations
-					professionnelles, une bataille s’est engagée pour produire avec moins de chimie.
-				</p> -->
 
 			</div>
 		</section>
 
-	
+		<section class="encart padding-bottom odd">
+
+			<div class="sponsor-bar">
+				<div class="sponsor-bar-container">
+					<a href="https://www.sbb.ch/fr/" target="_blank"><img src="img/logo-sponsor-only-black-small.svg" alt=""></a>
+					<span>Avec le soutien de </span>
+				</div>
+			</div>
+			<div class="spacer-small"></div>
+			<div class="spacer-small"></div>
+			<div class="spacer-small"></div>
+			<div class="spacer-small"></div>
+			<div class="container">
+
+				<h3 class="inter-titre title"><b>Mirabaud et la voile: une passion plus que centenaire</b></h3>
+				
+				<h4>
+					Fondé à Genève en 1819, le Groupe Mirabaud associe depuis plus d’un siècle son nom à celui de la voile de compétition ainsi qu’à des navigateurs et des défis d’exception.<br> La première preuve tangible de l’existence d’un voilier de course appartenant à la famille Mirabaud date de 1888. Le groupe bancaire et financier soutient le Bol d’Or Mirabaud depuis 2005.
+				</h4>
+
+				<p>
+					Au fil du temps et de l’eau, Mirabaud s’est forgé un nom dans la voile en parfaite résonnance avec son activité&nbsp;: réunir autour d’objectifs communs des personnalités de talent. Le Groupe s’engage à soutenir des projets et des personnalités qui incarnent la performance et l’excellence, des valeurs qui lui sont chères. 
+				</p>
+
+				<p>
+					<b>Bol d’Or Mirabaud, douze ans de partenariat actif</b><br>
+					Mirabaud est sponsor du Bol d’Or Mirabaud depuis 2005. Lors de chaque régate, il affrète trois bateaux de type «Surprise» et invite ses collaborateurs à former des équipes et à s’aligner au départ de la course. Ils ont inscrit plusieurs fois leur nom au palmarès.
+				</p>
+
+				<p>
+					<b>Un partenaire engagé pour des sportifs de haut niveau</b><br>
+					Mirabaud a soutenu durant trois ans (2014-2016) l’écurie professionnelle de course à la voile Spindrift racing, vainqueur notamment en 2016 du Bol d’Or Mirabaud et du D35 Trophy sur le D35 Ladycat. Le Groupe a également soutenu le navigateur genevois Dominique Wavre durant sept ans (2010-2016), notamment lors de la Barcelona World Race (2010-2011), la Transat Jacques Vabre (2011) et le Vendée Globe (2012).&nbsp;Quant à Mike Horn, il a effectué différents périples extrêmes à la voile sous les couleurs du Groupe.
+				</p>
+
+				<p>
+					<b>Mirabaud en bref</b><br>
+					Mirabaud propose à ses clients des services financiers et des conseils personnalisés dans trois domaines d’activité: le Wealth Management, l’Asset Management et le Brokerage. Le Groupe emploie quelque 700 collaborateurs et compte 14 bureaux en Suisse, au Royaume-Uni, au Luxembourg, en France, en Espagne, en Italie, au Canada, à Hong Kong et aux Emirats arabes unis.
+				</p>
+
+
+				<p>
+					Pour plus d’informations, veuillez consulter le site <a href="https://www.mirabaud.com/fr/" target="_blank">www.mirabaud.com</a>.
+				</p>
+
+			</div>
+		</section>
 
 		
 
@@ -1385,6 +1409,7 @@
 
 			<div class="credits">
 				Texte: François Busson<br>
+				Cartes: Manuel Forney<br>
 				Format Web: César Greppin
 			</div>
 		</footer>

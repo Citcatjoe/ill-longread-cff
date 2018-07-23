@@ -26,6 +26,24 @@ ul
         box-shadow:0 3px 7px 0 rgba(0,0,0,0.1);
         border-left: 3px solid #e3002c;
 
+        @include breakpoint(xs) { 
+            margin-right: 20px;
+            width: calc((100% - 20px) / 2 );
+            padding-bottom: calc((100% - 20px) / 2 );
+
+            &:nth-child(-n+5)
+            {
+                margin-bottom: 20px;
+            }
+
+            &:nth-child(even)
+            {
+                margin-right: 0;
+            }
+        }
+
+
+
         &:last-child
         {
             margin-right: 0;
@@ -102,13 +120,13 @@ div.fixed-map-wrapper
     .logo-brand
     {
         width: 300px;
-        max-width: 85%;
+        max-width: 60%;
         height: auto;
         position: absolute;
         top: 50%;
         left: 50%;
-        //@include transform(translate(-50%, -300%));
-        @include transform(translate(-50%, -110%)); //no sponsor
+        @include transform(translate(-50%, -180%));
+        //@include transform(translate(-50%, -110%)); //no sponsor
     }
 
     .logo-sponsor
@@ -119,9 +137,13 @@ div.fixed-map-wrapper
         height: auto;
         top: 50%;
         left: 50%;
-        @include transform(translate(-50%, 77%));
-        //@include transform(translate(-50%, 130%)); //no sponsor
+        @include transform(translate(-50%, 250%));
     }
+
+
+
+
+
 }
 
 .scroll-indicator

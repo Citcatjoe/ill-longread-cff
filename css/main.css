@@ -1125,6 +1125,15 @@ footer {
     position: relative;
     box-shadow: 0 3px 7px 0 rgba(0, 0, 0, 0.1);
     border-left: 3px solid #e3002c; }
+    @media (max-width: 500px) {
+      .box-wrapper .box-wrapper--box {
+        margin-right: 20px;
+        width: calc((100% - 20px) / 2);
+        padding-bottom: calc((100% - 20px) / 2); }
+        .box-wrapper .box-wrapper--box:nth-child(-n+5) {
+          margin-bottom: 20px; }
+        .box-wrapper .box-wrapper--box:nth-child(even) {
+          margin-right: 0; } }
     .box-wrapper .box-wrapper--box:last-child {
       margin-right: 0; }
     .box-wrapper .box-wrapper--box .box-wrapper--box--container {
@@ -1185,16 +1194,16 @@ div.fixed-map-wrapper {
   z-index: 1001; }
   .overlay .logo-brand {
     width: 300px;
-    max-width: 85%;
+    max-width: 60%;
     height: auto;
     position: absolute;
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, -110%);
-    -moz-transform: translate(-50%, -110%);
-    -ms-transform: translate(-50%, -110%);
-    -o-transform: translate(-50%, -110%);
-    transform: translate(-50%, -110%); }
+    -webkit-transform: translate(-50%, -180%);
+    -moz-transform: translate(-50%, -180%);
+    -ms-transform: translate(-50%, -180%);
+    -o-transform: translate(-50%, -180%);
+    transform: translate(-50%, -180%); }
   .overlay .logo-sponsor {
     position: absolute;
     max-width: 85%;
@@ -1202,11 +1211,11 @@ div.fixed-map-wrapper {
     height: auto;
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, 77%);
-    -moz-transform: translate(-50%, 77%);
-    -ms-transform: translate(-50%, 77%);
-    -o-transform: translate(-50%, 77%);
-    transform: translate(-50%, 77%); }
+    -webkit-transform: translate(-50%, 250%);
+    -moz-transform: translate(-50%, 250%);
+    -ms-transform: translate(-50%, 250%);
+    -o-transform: translate(-50%, 250%);
+    transform: translate(-50%, 250%); }
 
 .scroll-indicator {
   cursor: pointer;

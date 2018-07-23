@@ -4,9 +4,9 @@
 
   position: absolute;
   left: 50%;
-  /*top: 47%; with sponsor*/
-  top: 54%; 
-  transform: translateX(-48%);
+  top: 50%; 
+  /*top: 54%; */
+  transform: translateX(-50%);
 }
 
 .double-bounce1, .double-bounce2 {

@@ -1867,7 +1867,7 @@
 		},
 	"\/img\/article\/header-dentdenendaz.jpg": {
 		"ft": 16384,
-		"iS": 375739,
+		"iS": 15978820,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-dentdenendaz.jpg",
@@ -1878,7 +1878,7 @@
 		},
 	"\/img\/article\/header-gastlosen.jpg": {
 		"ft": 16384,
-		"iS": 377823,
+		"iS": 5439331,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-gastlosen.jpg",
@@ -1889,7 +1889,7 @@
 		},
 	"\/img\/article\/header-glacier3000.jpg": {
 		"ft": 16384,
-		"iS": 384758,
+		"iS": 15428013,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-glacier3000.jpg",
@@ -1911,7 +1911,7 @@
 		},
 	"\/img\/article\/header.jpg": {
 		"ft": 16384,
-		"iS": 597515,
+		"iS": 3653898,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header.jpg",
@@ -1974,9 +1974,9 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/article\/midi4.jpg": {
+	"\/img\/article\/midi4.JPG": {
 		"ft": 16384,
-		"iS": 356222,
+		"iS": 675501,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/midi4.jpg",
@@ -2127,16 +2127,6 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/logo-sponsor-only-neg.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/logo-sponsor-only.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/logo-sponsor-only.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -2317,11 +2307,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexLT.php": {
+	"\/indexH.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/indexLT.php",
+		"oAP": "\/indexH.php",
 		"oF": 0
 		},
 	"\/js\/animation-charts-min.js": {
