@@ -85,7 +85,9 @@ ul
 div.fixed-map-wrapper
 {
     position: fixed;
-    width: 250px;
+    //width: 250px;
+    width: calc((100% - 700px) / 2 );
+    padding: 0 80px 0 30px;
     //height: 100px;
     //background: red;
     top: 50%;
@@ -283,11 +285,6 @@ section .video-wrapper
     width: 100%;
     max-width: 1120px;
     margin: auto;
-
-    &.entete-video-wrapper
-    {
-        max-width: 100%;
-    }
     
     .trigger
     {
@@ -306,9 +303,9 @@ section .video-wrapper
         object-fit: cover;
         top: 0;
         width: 100%;
-        //padding-lefT: 210px; // A CAUSE DE LA MINIMAP
+        padding-lefT: 210px;
 
-        @include breakpoint(lg) { 
+         @include breakpoint(lg) { 
             padding-lefT: 0;
         }
     }

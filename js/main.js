@@ -4,6 +4,417 @@ jQuery(document).ready(function($)
 	// $('.bxslider').bxSlider({
 	// 	//mode: 'fade'
 	// });
+	mainTl = new TimelineMax();
+	var $map = $('#map');
+	var $chasseral = $map.find('#map-chasseral-dot');
+	var $nendaz = $map.find('#map-nendaz-dot');
+	var $midi = $map.find('#map-midi-dot');
+	var $glacier3000 = $map.find('#map-glacier3000-dot');
+	var $gastlosen = $map.find('#map-gastlosen-dot');
+
+	var $chasseralTxt = $map.find('#map-chasseral-txt');
+	var $midiTxt = $map.find('#map-midi-txt');
+	var $nendazTxt = $map.find('#map-nendaz-txt');
+	var $glacier3000Txt = $map.find('#map-glacier3000-txt');
+	var $gastlosenTxt = $map.find('#map-gastlosen-txt');
+
+	mainTl
+		.set($chasseral, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($nendaz, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($midi, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($glacier3000, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($gastlosen, { autoAlpha: 1, transformOrigin: "center center" });
+
+	$chasseral.mouseenter(function() 
+	{
+		mainTl.to($chasseral, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$chasseral.mouseleave(function() 
+	{
+		mainTl.to($chasseral, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$midi.mouseenter(function() 
+	{
+		mainTl.to($midi, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$midi.mouseleave(function() 
+	{
+		mainTl.to($midi, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$nendaz.mouseenter(function() 
+	{
+		mainTl.to($nendaz, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$nendaz.mouseleave(function() 
+	{
+		mainTl.to($nendaz, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$glacier3000.mouseenter(function() 
+	{
+		mainTl.to($glacier3000, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$glacier3000.mouseleave(function() 
+	{
+		mainTl.to($glacier3000, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$gastlosen.mouseenter(function() 
+	{
+		mainTl.to($gastlosen, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$gastlosen.mouseleave(function() 
+	{
+		mainTl.to($gastlosen, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+
+
+
+
+	$chasseralTxt.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-chasseral").offset().top
+	    }, 1000);
+	});
+
+	$midiTxt.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-midi").offset().top
+	    }, 1000);
+	});
+
+	$nendazTxt.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-nendaz").offset().top
+	    }, 1000);
+	});
+
+	$glacier3000Txt.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-glacier3000").offset().top
+	    }, 1000);
+	});
+
+	$gastlosenTxt.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-gastlosen").offset().top
+	    }, 1000);
+	});
+
+
+
+
+
+
+	$chasseral.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-chasseral").offset().top
+	    }, 1000);
+	});
+
+	$midi.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-midi").offset().top
+	    }, 1000);
+	});
+
+	$nendaz.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-nendaz").offset().top
+	    }, 1000);
+	});
+
+	$glacier3000.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-glacier3000").offset().top
+	    }, 1000);
+	});
+
+	$gastlosen.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-gastlosen").offset().top
+	    }, 1000);
+	});
+
+
+
+
+
+
+
+
+
+
+
+	mainTl2 = new TimelineMax();
+	var $map2 = $('#map2');
+	var $chasseral2 = $map2.find('#map-chasseral-dot');
+	var $nendaz2 = $map2.find('#map-nendaz-dot');
+	var $midi2 = $map2.find('#map-midi-dot');
+	var $glacier30002 = $map2.find('#map-glacier3000-dot');
+	var $gastlosen2 = $map2.find('#map-gastlosen-dot');
+
+	var $chasseral2color = $chasseral2.find('.st4');
+	var $midi2color = $midi2.find('.st4');
+	var $nendaz2color = $nendaz2.find('.st4');
+	var $glacier30002color = $glacier30002.find('.st4');
+	var $gastlosen2color = $gastlosen2.find('.st4');
+
+	mainTl
+		.set($chasseral2, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($nendaz2, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($midi2, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($glacier30002, { autoAlpha: 1, transformOrigin: "center center" })
+		.set($gastlosen2, { autoAlpha: 1, transformOrigin: "center center" })
+		.set([$chasseral2color, $midi2color, $nendaz2color, $glacier30002color, $gastlosen2color], { fill: '#b9b9b9' });
+
+
+	$chasseral2.mouseenter(function() 
+	{
+		mainTl2.to($chasseral2, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$chasseral2.mouseleave(function() 
+	{
+		mainTl2.to($chasseral2, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$midi2.mouseenter(function() 
+	{
+		mainTl2.to($midi2, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$midi2.mouseleave(function() 
+	{
+		mainTl2.to($midi2, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$nendaz2.mouseenter(function() 
+	{
+		mainTl2.to($nendaz2, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$nendaz2.mouseleave(function() 
+	{
+		mainTl2.to($nendaz2, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$glacier30002.mouseenter(function() 
+	{
+		mainTl2.to($glacier30002, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$glacier30002.mouseleave(function() 
+	{
+		mainTl2.to($glacier30002, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+	$gastlosen2.mouseenter(function() 
+	{
+		mainTl2.to($gastlosen2, 0.1, {scale: 1.3, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+	$gastlosen2.mouseleave(function() 
+	{
+		mainTl2.to($gastlosen2, 0.1, {scale: 1, ease: Power4.easeOut, y: 0});
+		event.stopImmediatePropagation();
+	});
+
+
+
+
+	$chasseral2.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-chasseral").offset().top
+	    }, 1000);
+	});
+
+	$midi2.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-midi").offset().top
+	    }, 1000);
+	});
+
+	$nendaz2.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-nendaz").offset().top
+	    }, 1000);
+	});
+
+	$glacier30002.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-glacier3000").offset().top
+	    }, 1000);
+	});
+
+	$gastlosen2.click(function() 
+	{
+		$([document.documentElement, document.body]).animate({
+	        scrollTop: $(".anchor-gastlosen").offset().top
+	    }, 1000);
+	});
+
+
+
+	var controllerMapAnim = new ScrollMagic.Controller();
+
+
+	new ScrollMagic.Scene({
+			triggerElement: '.anchor-chasseral', 
+			triggerHook: 0.5
+			//duration: (stepCitern * 10)
+		})
+		//.setPin('section.citern', {pushFollowers: true})
+		.setClassToggle("#map2 #map-chasseral-dot .st4", "is-red")
+		//.setTween(tween)
+		//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+		.offset( 0 ) //tip top
+		 // add indicators (requires plugin)
+		.addTo(controllerMapAnim);
+
+				new ScrollMagic.Scene({
+						triggerElement: '.anchor-nendaz', 
+						triggerHook: 0.5
+						//duration: (stepCitern * 10)
+					})
+					//.setPin('section.citern', {pushFollowers: true})
+					.setClassToggle("#map2 #map-chasseral-dot .st4", "is-disabled")
+					//.setTween(tween)
+					//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+					.offset( 0 ) //tip top
+					 // add indicators (requires plugin)
+					.addTo(controllerMapAnim);
+
+
+				new ScrollMagic.Scene({
+						triggerElement: '.anchor-nendaz', 
+						triggerHook: 0.5
+						//duration: (stepCitern * 10)
+					})
+					//.setPin('section.citern', {pushFollowers: true})
+					.setClassToggle("#map2 #map-nendaz-dot .st4", "is-red")
+					//.setTween(tween)
+					//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+					.offset( 0 ) //tip top
+					 // add indicators (requires plugin)
+					.addTo(controllerMapAnim);
+
+							new ScrollMagic.Scene({
+									triggerElement: '.anchor-glacier3000', 
+									triggerHook: 0.5
+									//duration: (stepCitern * 10)
+								})
+								//.setPin('section.citern', {pushFollowers: true})
+								.setClassToggle("#map2 #map-nendaz-dot .st4", "is-disabled")
+								//.setTween(tween)
+								//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+								.offset( 0 ) //tip top
+								 // add indicators (requires plugin)
+								.addTo(controllerMapAnim);
+
+
+							new ScrollMagic.Scene({
+									triggerElement: '.anchor-glacier3000', 
+									triggerHook: 0.5
+									//duration: (stepCitern * 10)
+								})
+								//.setPin('section.citern', {pushFollowers: true})
+								.setClassToggle("#map2 #map-glacier3000-dot .st4", "is-red")
+								//.setTween(tween)
+								//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+								.offset( 0 ) //tip top
+								 // add indicators (requires plugin)
+								.addTo(controllerMapAnim);
+
+				new ScrollMagic.Scene({
+						triggerElement: '.anchor-midi', 
+						triggerHook: 0.5
+						//duration: (stepCitern * 10)
+					})
+					//.setPin('section.citern', {pushFollowers: true})
+					.setClassToggle("#map2 #map-glacier3000-dot .st4", "is-disabled")
+					//.setTween(tween)
+					//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+					.offset( 0 ) //tip top
+					 // add indicators (requires plugin)
+					.addTo(controllerMapAnim);
+
+
+				new ScrollMagic.Scene({
+						triggerElement: '.anchor-midi', 
+						triggerHook: 0.5
+						//duration: (stepCitern * 10)
+					})
+					//.setPin('section.citern', {pushFollowers: true})
+					.setClassToggle("#map2 #map-midi-dot .st4", "is-red")
+					//.setTween(tween)
+					//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+					.offset( 0 ) //tip top
+					 // add indicators (requires plugin)
+					.addTo(controllerMapAnim);
+
+	new ScrollMagic.Scene({
+			triggerElement: '.anchor-gastlosen', 
+			triggerHook: 0.5
+			//duration: (stepCitern * 10)
+		})
+		//.setPin('section.citern', {pushFollowers: true})
+		.setClassToggle("#map2 #map-midi-dot .st4", "is-disabled")
+		//.setTween(tween)
+		//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+		.offset( 0 ) //tip top
+		 // add indicators (requires plugin)
+		.addTo(controllerMapAnim);
+
+
+	new ScrollMagic.Scene({
+			triggerElement: '.anchor-gastlosen', 
+			triggerHook: 0.5
+			//duration: (stepCitern * 10)
+		})
+		//.setPin('section.citern', {pushFollowers: true})
+		.setClassToggle("#map2 #map-gastlosen-dot .st4", "is-red")
+		//.setTween(tween)
+		//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
+		.offset( 0 ) //tip top
+		 // add indicators (requires plugin)
+		.addTo(controllerMapAnim);
+
+
+
+	
+	
 
 
 	//360
@@ -30,7 +441,7 @@ jQuery(document).ready(function($)
             whiteSpaceRemoved = true;
           }
         })
-        //.addIndicators()
+        //
         .offset(0) //tip top
         .addTo(controller);
 

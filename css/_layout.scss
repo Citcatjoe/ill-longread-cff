@@ -13,11 +13,11 @@ header
 	//margin-bottom: 46px;     
 
 	@include breakpoint(md) { 
-        margin-bottom: 50px;     
+        //margin-bottom: 50px;     
     } 
 
     @include breakpoint(xs) {  
-        margin-bottom: 40px;      
+        //margin-bottom: 40px;      
     }
 
     .header__bg
@@ -567,7 +567,17 @@ section
 			.layout
 			{
 				width: 90%;
-				max-width: 1120px;
+				// max-width: 1120px;
+				// padding-left: 210px;
+				max-width: 920px;
+			    transform: translateX(105px);
+
+				@include breakpoint(lg) { 
+		            padding-left: 0;
+		            max-width: 1120px;
+		             transform: translateX(0);
+					//padding-left: 210px;
+		        }
 
 				@include breakpoint(md) { 
 					width: 700px;
@@ -628,12 +638,16 @@ section
 			.layout
 			{
 				width: 100%;
-				max-width: 1120px;
+				//max-width: 1120px;
+				max-width: 920px;
+			    transform: translateX(105px);
 				overflow: auto;
 				//padding-lefT: 210px; // A CAUSE DE LA MINIMAP
 				
 				@include breakpoint(lg) { 
-			        width: 100%;
+			        width: 90%;
+			        max-width: 1120px;
+			   		transform: translateX(0);
 			        //padding-left: 0; // A CAUSE DE LA MINIMAP
 			    }
 

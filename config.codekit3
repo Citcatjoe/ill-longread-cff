@@ -2176,16 +2176,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/logo-sponsor-only-black-small.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/logo-sponsor-only-black-small.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/img\/logo-sponsor-only-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2724,6 +2714,16 @@
 		"oAP": "\/prod\/________trash\/Intro - Chasseral.docx",
 		"oF": 0
 		},
+	"\/prod\/Carte_IL_site.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/prod\/Carte_IL_site.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/prod\/Carte_IL_site_OK.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2762,6 +2762,16 @@
 		"oA": 2,
 		"oAP": "\/prod\/Les montées du plaisir_okVB.docx",
 		"oF": 0
+		},
+	"\/prod\/map-top.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/prod\/map-top.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/prod\/SBB_CFF_FFS_logo.svg": {
 		"ft": 2097152,
