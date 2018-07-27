@@ -1911,7 +1911,7 @@
 		},
 	"\/img\/article\/header-dentdenendaz.jpg": {
 		"ft": 16384,
-		"iS": 15978820,
+		"iS": 375739,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-dentdenendaz.jpg",
@@ -1922,7 +1922,7 @@
 		},
 	"\/img\/article\/header-gastlosen.jpg": {
 		"ft": 16384,
-		"iS": 5439331,
+		"iS": 377823,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-gastlosen.jpg",
@@ -1933,7 +1933,7 @@
 		},
 	"\/img\/article\/header-glacier3000.jpg": {
 		"ft": 16384,
-		"iS": 15428013,
+		"iS": 384758,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-glacier3000.jpg",
@@ -1955,7 +1955,7 @@
 		},
 	"\/img\/article\/header.jpg": {
 		"ft": 16384,
-		"iS": 3653898,
+		"iS": 597515,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header.jpg",
@@ -1963,6 +1963,46 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/img\/article\/logo-cff-railway-neg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/logo-cff-railway-neg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/logo-cff-railway-overlay.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/logo-cff-railway-overlay.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/logo-cff-railway.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/logo-cff-railway.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/map-side.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/map-side.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/img\/article\/map-suisse.png": {
 		"ft": 32768,
@@ -2028,9 +2068,9 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/article\/midi4.JPG": {
+	"\/img\/article\/midi4.jpg": {
 		"ft": 16384,
-		"iS": 675501,
+		"iS": 356222,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/midi4.jpg",
@@ -2171,6 +2211,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/logo-lt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/logo-sponsor-only-black-small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/logo-sponsor-only-black-small.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -2381,11 +2431,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexH.php": {
+	"\/indexLT.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/indexH.php",
+		"oAP": "\/indexLT.php",
 		"oF": 0
 		},
 	"\/js\/animation-charts-min.js": {

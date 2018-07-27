@@ -33,7 +33,7 @@ hr {
   border-radius: 3px; }
 
 h1 {
-  font-size: 90px;
+  font-size: 100px;
   line-height: 95px;
   color: #fff;
   font-family: "Times";
@@ -41,18 +41,18 @@ h1 {
   text-align: center;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
   max-width: 1005px; }
   @media (max-width: 768px) {
     h1 {
-      font-size: 60px;
+      font-size: 80px;
       line-height: 70px; } }
   @media (max-width: 500px) {
     h1 {
-      font-size: 40px;
-      line-height: 47px;
+      font-size: 50px;
+      line-height: 50px;
       text-align: center; }
       h1 br {
         display: none; } }
@@ -1203,23 +1203,23 @@ div.fixed-map-wrapper {
     position: absolute;
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, -180%);
-    -moz-transform: translate(-50%, -180%);
-    -ms-transform: translate(-50%, -180%);
-    -o-transform: translate(-50%, -180%);
-    transform: translate(-50%, -180%); }
+    -webkit-transform: translate(-50%, -210%);
+    -moz-transform: translate(-50%, -210%);
+    -ms-transform: translate(-50%, -210%);
+    -o-transform: translate(-50%, -210%);
+    transform: translate(-50%, -210%); }
   .overlay .logo-sponsor {
     position: absolute;
-    max-width: 85%;
+    max-width: 60%;
     width: 300px;
     height: auto;
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, 250%);
-    -moz-transform: translate(-50%, 250%);
-    -ms-transform: translate(-50%, 250%);
-    -o-transform: translate(-50%, 250%);
-    transform: translate(-50%, 250%); }
+    -webkit-transform: translate(-50%, 125%);
+    -moz-transform: translate(-50%, 125%);
+    -ms-transform: translate(-50%, 125%);
+    -o-transform: translate(-50%, 125%);
+    transform: translate(-50%, 125%); }
 
 .scroll-indicator {
   cursor: pointer;
@@ -1242,7 +1242,7 @@ div.fixed-map-wrapper {
 .header-sponsor {
   position: absolute;
   height: 57px;
-  background: #272727;
+  background: #201D1D;
   width: 100%;
   bottom: 0;
   z-index: 10; }
