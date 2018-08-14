@@ -304,7 +304,7 @@ jQuery(document).ready(function($)
 		.addTo(controllerMapAnim);
 
 				new ScrollMagic.Scene({
-						triggerElement: '.anchor-nendaz', 
+						triggerElement: '.anchor-glacier3000', 
 						triggerHook: 0.5
 						//duration: (stepCitern * 10)
 					})
@@ -318,12 +318,12 @@ jQuery(document).ready(function($)
 
 
 				new ScrollMagic.Scene({
-						triggerElement: '.anchor-nendaz', 
+						triggerElement: '.anchor-glacier3000', 
 						triggerHook: 0.5
 						//duration: (stepCitern * 10)
 					})
 					//.setPin('section.citern', {pushFollowers: true})
-					.setClassToggle("#map2 #map-nendaz-dot .st4", "is-red")
+					.setClassToggle("#map2 #map-glacier3000-dot .st4", "is-red")
 					//.setTween(tween)
 					//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
 					.offset( 0 ) //tip top
@@ -331,12 +331,12 @@ jQuery(document).ready(function($)
 					.addTo(controllerMapAnim);
 
 							new ScrollMagic.Scene({
-									triggerElement: '.anchor-glacier3000', 
+									triggerElement: '.anchor-nendaz', 
 									triggerHook: 0.5
 									//duration: (stepCitern * 10)
 								})
 								//.setPin('section.citern', {pushFollowers: true})
-								.setClassToggle("#map2 #map-nendaz-dot .st4", "is-disabled")
+								.setClassToggle("#map2 #map-glacier3000-dot .st4", "is-disabled")
 								//.setTween(tween)
 								//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
 								.offset( 0 ) //tip top
@@ -345,12 +345,12 @@ jQuery(document).ready(function($)
 
 
 							new ScrollMagic.Scene({
-									triggerElement: '.anchor-glacier3000', 
+									triggerElement: '.anchor-nendaz', 
 									triggerHook: 0.5
 									//duration: (stepCitern * 10)
 								})
 								//.setPin('section.citern', {pushFollowers: true})
-								.setClassToggle("#map2 #map-glacier3000-dot .st4", "is-red")
+								.setClassToggle("#map2 #map-nendaz-dot .st4", "is-red")
 								//.setTween(tween)
 								//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
 								.offset( 0 ) //tip top
@@ -363,7 +363,7 @@ jQuery(document).ready(function($)
 						//duration: (stepCitern * 10)
 					})
 					//.setPin('section.citern', {pushFollowers: true})
-					.setClassToggle("#map2 #map-glacier3000-dot .st4", "is-disabled")
+					.setClassToggle("#map2 #map-nendaz-dot .st4", "is-disabled")
 					//.setTween(tween)
 					//.setClassToggle(".fixed-map-wrapper svg #sandiego-dot path", "is-hidden")
 					.offset( 0 ) //tip top

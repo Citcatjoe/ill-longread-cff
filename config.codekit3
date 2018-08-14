@@ -1898,6 +1898,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/article\/gornergrat.jpg": {
+		"ft": 16384,
+		"iS": 193137,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/article\/gornergrat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/article\/header-chasseral.jpg": {
 		"ft": 16384,
 		"iS": 513592,
@@ -1911,7 +1922,7 @@
 		},
 	"\/img\/article\/header-dentdenendaz.jpg": {
 		"ft": 16384,
-		"iS": 15978820,
+		"iS": 375739,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-dentdenendaz.jpg",
@@ -1922,7 +1933,7 @@
 		},
 	"\/img\/article\/header-gastlosen.jpg": {
 		"ft": 16384,
-		"iS": 5439331,
+		"iS": 377823,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-gastlosen.jpg",
@@ -1933,7 +1944,7 @@
 		},
 	"\/img\/article\/header-glacier3000.jpg": {
 		"ft": 16384,
-		"iS": 15428013,
+		"iS": 384758,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header-glacier3000.jpg",
@@ -1955,7 +1966,7 @@
 		},
 	"\/img\/article\/header.jpg": {
 		"ft": 16384,
-		"iS": 3653898,
+		"iS": 597515,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/header.jpg",
@@ -1964,6 +1975,39 @@
 		"opt": 0,
 		"q": 100
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/article\/logo-cff-railway-neg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/logo-cff-railway-neg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/logo-cff-railway-overlay.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/logo-cff-railway-overlay.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/logo-cff-railway.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/logo-cff-railway.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+>>>>>>> 6b22088ac196a721b14ef81e97f02dba204b0e73
 	"\/img\/article\/map-side.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2038,9 +2082,9 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/article\/midi4.JPG": {
+	"\/img\/article\/midi4.jpg": {
 		"ft": 16384,
-		"iS": 675501,
+		"iS": 356222,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/midi4.jpg",
@@ -2401,11 +2445,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexH.php": {
+	"\/indexLT.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/indexH.php",
+		"oAP": "\/indexLT.php",
 		"oF": 0
 		},
 	"\/js\/animation-charts-min.js": {

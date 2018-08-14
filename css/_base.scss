@@ -95,7 +95,7 @@ hr { background: $red-lt-darker; height: 4px !important; width: 150px; border-ra
 
 h1
 {
-    font-size: 90px;
+    font-size: 100px;
     line-height: 95px;
     color: #fff;
     //font-family: $font1; 
@@ -105,20 +105,20 @@ h1
     text-align: center;
     -webkit-font-smoothing: antialiased; 
     -moz-osx-font-smoothing: grayscale;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     margin-left: auto;
     margin-right: auto;
     max-width: 1005px;
     //text-shadow: rgba(0, 0, 0, 0.3) 0 1px 8px, rgba(0, 0, 0, 0.3) 0px 0px 1px;
 
      @include breakpoint(sm) { 
-        font-size:60px;
+        font-size:80px;
         line-height: 70px;
     }
 
     @include breakpoint(xs) { 
-        font-size:40px;
-        line-height: 47px;
+        font-size:50px;
+        line-height: 50px;
         text-align: center;
 
         br 

@@ -127,19 +127,19 @@ div.fixed-map-wrapper
         position: absolute;
         top: 50%;
         left: 50%;
-        @include transform(translate(-50%, -180%));
+        @include transform(translate(-50%, -210%));
         //@include transform(translate(-50%, -110%)); //no sponsor
     }
 
     .logo-sponsor
     {
         position: absolute;
-        max-width: 85%;
+        max-width: 60%;
         width: 300px;
         height: auto;
         top: 50%;
         left: 50%;
-        @include transform(translate(-50%, 250%));
+        @include transform(translate(-50%, 125%));
     }
 
 
@@ -167,7 +167,7 @@ div.fixed-map-wrapper
 {
     position: absolute;  
     height: 57px;
-    background: #272727;
+    background: #201D1D;
     width: 100%;
     bottom: 0;
     z-index: 10;
